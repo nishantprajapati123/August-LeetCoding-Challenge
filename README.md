@@ -10,3 +10,6 @@
   * **Day 5 [Add and Search Word - Data structure design](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%201/AddAndSearchWord.cpp)**
   * **Day 6 [Find All Duplicates in an Array](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%201/FindAllDuplicatesInAnArray.cpp)**
   * **Day 7 [Vertical Order Traversal of a Binary Tree](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%201/VerticalOrderTraversalOfABinaryTree.cpp)**
+  
+  **Week 2**
+  * **Day 8 [Path Sum III](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%202/PathSumIII.cpp)**
