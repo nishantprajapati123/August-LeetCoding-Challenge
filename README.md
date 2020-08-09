@@ -11,5 +11,6 @@
   * **Day 6 [Find All Duplicates in an Array](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%201/FindAllDuplicatesInAnArray.cpp)**
   * **Day 7 [Vertical Order Traversal of a Binary Tree](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%201/VerticalOrderTraversalOfABinaryTree.cpp)**
   
-  **Week 2**
+**Week 2**
   * **Day 8 [Path Sum III](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%202/PathSumIII.cpp)**
+  * **Day 9 [Rotting Oranges](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%202/RottingOranges.cpp)**
