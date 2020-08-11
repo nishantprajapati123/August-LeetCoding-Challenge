@@ -15,3 +15,4 @@
   * **Day 8 [Path Sum III](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%202/PathSumIII.cpp)**
   * **Day 9 [Rotting Oranges](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%202/RottingOranges.cpp)**
   * **Day 10 [Excel Sheet Column Number](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%202/ExcelSheetColumnNumber.cpp)**
+  * **Day 11 [H-Index](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%202/H-Index.cpp)**
