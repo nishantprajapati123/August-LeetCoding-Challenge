@@ -17,3 +17,4 @@
   * **Day 10 [Excel Sheet Column Number](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%202/ExcelSheetColumnNumber.cpp)**
   * **Day 11 [H-Index](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%202/H-Index.cpp)**
   * **Day 12 [Pascal's Triangle II](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%202/PascalsTriangleII.cpp)**
+  * **Day 13 [Longest Palindrome](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%202/LongestPalindrome.cpp)**
