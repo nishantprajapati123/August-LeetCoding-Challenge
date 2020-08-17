@@ -23,3 +23,4 @@
 **Week 3**
   * **Day 15 [Non-overlapping Intervals](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%203/Non-overlappingIntervals.cpp)**
   * **Day 16 [Best Time to Buy and Sell Stock III](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%203/BestTimeToBuyAndSellStockIII.cpp)**
+  * **Day 17 [Distribute Candies to People](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%203/DistributeCandiesToPeople.cpp)**
