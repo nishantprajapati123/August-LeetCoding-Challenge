@@ -27,3 +27,4 @@
   * **Day 18 [Numbers With Same Consecutive Differences](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%203/NumbersWithSameConsecutiveDifferences.cpp)**
   * **Day 19 [Goat Latin](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%203/GoatLatin.cpp)**
   * **Day 20 [Reorder List](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%203/ReorderList.cpp)**
+  * **Day 21 [Sort Array By Parity](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%203/SortArrayByParity.cpp)**
