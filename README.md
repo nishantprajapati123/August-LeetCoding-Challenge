@@ -25,4 +25,5 @@
   * **Day 16 [Best Time to Buy and Sell Stock III](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%203/BestTimeToBuyAndSellStockIII.cpp)**
   * **Day 17 [Distribute Candies to People](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%203/DistributeCandiesToPeople.cpp)**
   * **Day 18 [Numbers With Same Consecutive Differences](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%203/NumbersWithSameConsecutiveDifferences.cpp)**
-  * **Day 19 [Reorder List](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%203/ReorderList.cpp)**
+  * **Day 19 [Goat Latin](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%203/GoatLatin.cpp)**
+  * **Day 20 [Reorder List](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%203/ReorderList.cpp)**
