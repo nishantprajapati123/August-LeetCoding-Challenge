@@ -28,3 +28,6 @@
   * **Day 19 [Goat Latin](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%203/GoatLatin.cpp)**
   * **Day 20 [Reorder List](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%203/ReorderList.cpp)**
   * **Day 21 [Sort Array By Parity](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%203/SortArrayByParity.cpp)**
+  
+**Week 4**
+  * **Day 22 [Random Point in Non-overlapping Rectangles](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%204/RandomPointInNonoverlappingRectangles.cpp)**
