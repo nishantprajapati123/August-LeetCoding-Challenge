@@ -32,3 +32,4 @@
 **Week 4**
   * **Day 22 [Random Point in Non-overlapping Rectangles](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%204/RandomPointInNonoverlappingRectangles.cpp)**
   * **Day 23 [Stream of Characters](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%204/StreamOfCharacters.cpp)**
+  * **Day 24 [Sum of Left Leaves](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%204/SumOfLeftLeaves.cpp)**
