@@ -1,5 +1,5 @@
-// Time complexity :- O(365)
-// SPace complexity :- O(365)
+// Time complexity :- O(n)
+// Space complexity :- O(n)
 class Solution {
 public:
     int mincostTickets(vector<int>& days, vector<int>& costs) {
