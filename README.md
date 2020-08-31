@@ -41,3 +41,4 @@
 **Week 5**
   * **Day 29 [Pancake Sorting](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%205/PancakeSorting.cpp)**
   * **Day 30 [Largest Component Size by Common Factor](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%205/LargestComponentSizeByCommonFactor.cpp)**
+  * **Day 31 [Delete Node in a BST](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%205/DeleteNodeInABST.cpp)**
