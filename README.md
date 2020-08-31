@@ -37,3 +37,7 @@
   * **Day 26 [Fizz Buzz](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%204/FizzBuzz.cpp)**
   * **Day 27 [Find Right Interval](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%204/FindRightInterval.cpp)**
   * **Day 28 [Implement Rand10() Using Rand7()](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%204/ImplementRand10()UsingRand7().cpp)**
+
+**Week 5**
+  * **Day 29 [Pancake Sorting](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%205/PancakeSorting.cpp)**
+  * **Day 30 [Largest Component Size by Common Factor](https://github.com/nishantprajapati123/August-LeetCoding-Challenge/blob/master/Week%205/LargestComponentSizeByCommonFactor.cpp)**
